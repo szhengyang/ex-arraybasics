@@ -9,6 +9,8 @@ exercise.change = function() {
     // ---------- Your Code ----------
     // -------------------------------	
 
+    fruits[0] = 'Mango'
+
     return fruits;
 
 };
@@ -23,6 +25,8 @@ exercise.length = function() {
     // -------------------------------	
     // ---------- Your Code ----------
     // -------------------------------	
+
+    
 
     return length;
 };
